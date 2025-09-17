@@ -1,1 +1,1 @@
-Hello from RHEL 9.6
+new file for testing
